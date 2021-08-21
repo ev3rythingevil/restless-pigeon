@@ -1,0 +1,47 @@
+body{
+    background-color: antiquewhite;
+}
+#mainHeader{
+    text-align:center;
+    font-family: american typewriter, serif;
+    font-size: 60px;
+}
+.subHead{
+    text-align: center;
+    padding: 12px;
+}
+.smolHead{
+    text-decoration: underline;
+    text-align:left;
+}
+
+#div1{
+    padding: 15px;
+}
+#div1 p{
+    text-align: center;
+}
+#nerdImage{
+    width:300px;
+
+}
+
+img.interestImg{
+    display: inline-block;
+    width: 250px;
+    height:300px;
+   
+}
+
+#div2{
+    text-align: center;
+}
+
+div.tableHead{
+text-align:center;
+}
+table, th, tr, td{
+    border: 1px solid black;
+    margin-left:auto;
+    margin-right: auto;
+}
